@@ -1,0 +1,4 @@
+Contributions:
+Guowei Yang: Regression (Neural Network), Feature Selection
+Anze Wang: Classification, Data Organization, Feature Selection
+Stella Xiao: Data Organization, Feature Selection, Report Author
